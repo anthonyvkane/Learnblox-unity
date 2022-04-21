@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "question": "What is 2+2?",
+      "options": [
+      
+        "1",
+       
+        "2",
+       
+        "3",
+      
+        "4"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "What is 1+2?",
+      "options": [
+      
+        "1",
+       
+        "2",
+       
+        "3",
+      
+        "5"
+      ],
+      "answer": "3"
+    }
+  ]
+  }
